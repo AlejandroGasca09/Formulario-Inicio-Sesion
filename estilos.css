@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:a aquamarine;
+    margin: auto;
+    padding: 0;
+
+}
+h1{
+    text-align: center;
+}
+form{
+    max-width: 200px;
+    margin: 20px auto;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.222);
+
+}
+.form-group{
+    margin-bottom: 10px;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+button{
+    background-color:rgb(153, 110, 54);
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: blue;
+
+}
+img{
+    display: block;
+    margin: auto;
+}
